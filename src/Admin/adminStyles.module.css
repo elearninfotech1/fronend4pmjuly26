@@ -1,0 +1,53 @@
+.bread
+{
+    background-color: rgb(5, 135, 33);
+}
+
+.bread h1
+{
+    color: #fff;
+    text-align: center;
+    padding: 25px 0px;
+    font-size: 30px;
+}
+
+.bx_shadow
+{
+    box-shadow: 3px 4px 5px 2px rgb(106, 178, 106);
+    padding: 30px;
+}
+.bx_shadow
+{
+    box-shadow: 3px 4px 5px 3px #b2b2b2;
+}
+
+.bggray
+{
+    background-color: #cdf8f1;
+}
+
+textarea
+{
+    height: 120px;
+}
+
+.bgnew1
+{
+    background-color: #e6fdf9;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+ul
+{
+    list-style: none;
+}
+
+.adminsidebar li
+{
+    margin-bottom: 25px;
+}
+

@@ -1,0 +1,12 @@
+.headerstyles ul li a
+{
+    color: #000 !important;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.4px;
+}
+.headerstyles img
+{
+    height:80px
+}
